@@ -1,3 +1,9 @@
+# Ignore the config file
+config.ini
+
+# Ignore python venv
+venv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
